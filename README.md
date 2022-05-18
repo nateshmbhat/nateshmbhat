@@ -5,6 +5,11 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=nateshmbhat&count_private=true&show_icons=true&layout=default)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nateshmbhat&layout=compact)
+
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nateshmbhat)
+ -->
+
 #### 🧿 My YouTube Channels : 
 
 👨🏻‍💻 I am known as **Friendly Developer** for posting technical content.
